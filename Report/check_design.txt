@@ -1,0 +1,31 @@
+ 
+****************************************
+check_design summary:
+Version:     R-2020.09-SP5
+Date:        Fri Mar 25 12:07:53 2022
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                      2
+    Constant outputs (LINT-52)                                      2
+
+Cells                                                               8
+    Cells do not drive (LINT-1)                                     8
+
+Nets                                                                1
+    Unloaded nets (LINT-2)                                          1
+--------------------------------------------------------------------------------
+
+Warning: In design 'convolution', cell 'B_18' does not drive any nets. (LINT-1)
+Warning: In design 'convolution', cell 'B_19' does not drive any nets. (LINT-1)
+Warning: In design 'convolution', cell 'B_20' does not drive any nets. (LINT-1)
+Warning: In design 'convolution', cell 'C803' does not drive any nets. (LINT-1)
+Warning: In design 'convolution', cell 'C809' does not drive any nets. (LINT-1)
+Warning: In design 'convolution', cell 'C812' does not drive any nets. (LINT-1)
+Warning: In design 'L1', cell 'B_6' does not drive any nets. (LINT-1)
+Warning: In design 'L1', cell 'B_8' does not drive any nets. (LINT-1)
+Warning: In design 'CONV', net 'L0_caddr_wr[12]' driven by pin 'L0/caddr_wr[12]' has no loads. (LINT-2)
+Warning: In design 'L1', output port 'csel[2]' is connected directly to 'logic 0'. (LINT-52)
+Warning: In design 'L1', output port 'csel[0]' is connected directly to 'logic 1'. (LINT-52)
+1
