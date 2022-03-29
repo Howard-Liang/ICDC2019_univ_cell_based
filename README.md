@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project for 2019 ic contest university group prelim, which implements an image convolutional circuit.
+This is a project for 2019 ic contest university group, which implements an image convolutional circuit.
 
 ## Executing Program
 
@@ -23,7 +23,7 @@ $ ncverilog -f rtl_02.f +access+r
 ```
 
 ## IC Contest Host
-For more information, you can download the spec and problem description at:  
+For more information, please download the spec and problem description at:  
 http://icdc.ntust.edu.tw/2022/index2.php?page=OldExams
 
 ## Authors
