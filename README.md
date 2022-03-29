@@ -1,8 +1,8 @@
-# ICC2019_prelim_univ_cell_based
+# ICDC2019_prelim_univ_cell_based
 
 ## Description
 
-This is a project for 2019 ic contest university group, which implements an image convolutional circuit.
+This is a project for 2019 ic design contest university group, which implements an image convolutional circuit.
 
 ## Executing Program
 
@@ -22,7 +22,7 @@ The gate-level circuit can be tested by using the following command:
 $ ncverilog -f rtl_02.f +access+r
 ```
 
-## IC Contest Host
+## ICD Contest Host
 For more information, please download the spec and problem description at:  
 http://icdc.ntust.edu.tw/2022/index2.php?page=OldExams
 
