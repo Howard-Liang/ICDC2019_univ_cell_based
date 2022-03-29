@@ -23,7 +23,7 @@ $ ncverilog -f rtl_02.f +access+r
 ```
 
 ## IC Contest Host
-http://icdc.ntust.edu.tw/2022/index2.php
+http://icdc.ntust.edu.tw/2022/index2.php?page=OldExams
 
 ## Authors
 
