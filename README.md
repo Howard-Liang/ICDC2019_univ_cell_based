@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project for 2019 ic design contest university group, which implements an image convolutional circuit.
+This is a project for 2019 ic design contest undergraduate group, which implements an image convolutional circuit.
 
 ## Executing Program
 
