@@ -3,6 +3,18 @@
 ## Description
 
 This is a project for 2019 ic design contest undergraduate group, which implements an image convolutional circuit.
+<p align="center">
+<img src="https://github.com/Howard-Liang/ICDC2019_univ_cell_based/blob/main/image/conv1.PNG" width=40% height=40%>
+</p>
+<p align="center">
+<img src="https://github.com/Howard-Liang/ICDC2019_univ_cell_based/blob/main/image/conv2.PNG" width=40% height=40%>
+</p>
+
+## Block Diagram
+<p align="center">
+<img src="https://github.com/Howard-Liang/ICDC2019_univ_cell_based/blob/main/image/conv_block.PNG" width=40% height=40%>
+</p>
+
 
 ## Executing Program
 
